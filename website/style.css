@@ -1,0 +1,121 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-image: url('images/background.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.title
+{
+	text-align: center
+}
+
+.title p
+{
+	color: 	#ffff66;
+	font-family: "Oswald", sans-serif;
+	font-size: 65px;
+	padding: 20px 0px;
+}
+
+.subtitle
+{
+	text-align: center
+}
+
+.subtitle p
+{
+	color: 	white;
+	font-family: "Oswald", sans-serif;
+	font-size: 40px;
+	padding: 10px 0px;
+}
+
+.input
+{
+	width: 850px;
+	height: 450px;
+	padding: 50px 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.input label
+{
+	color: white;
+	font-family: "Oswald", sans-serif;
+	font-size: 30px;
+	letter-spacing: 0.0625em;
+}
+
+.input output
+{
+	color: white;
+	font-family: "Oswald", sans-serif;
+	font-size: 20px;
+}
+
+.button
+{
+	text-align: center
+}
+
+.button button:hover
+{
+	background-color: gray;
+}
+
+.button button
+{
+	width: 200px;
+	height: 50px;
+	background-color: #ffff66;
+	border: none;
+  	color: black;
+  	font-family: "Oswald", sans-serif;
+  	font-size: 20px;
+}
+
+.output
+{
+	width: 900px;
+	height: 600px;
+	padding: 50px 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.output label
+{
+	color: white;
+	font-family: "Oswald", sans-serif;
+	font-size: 30px;
+	letter-spacing: 0.0625em;
+}
+
+.output p
+{
+	color: 	white;
+	font-family: "Oswald", sans-serif;
+	font-size: 40px;
+	padding: 10px 0px;
+}
+
+.loadingImage
+{
+  	position: absolute;
+  	left: 50%;
+	top: 50%;
+  	transform: translate(-50%, -50%);
+}
+
+.loadingImage p
+{
+	text-align: center;
+}

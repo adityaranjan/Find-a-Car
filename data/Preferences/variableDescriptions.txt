@@ -1,0 +1,5 @@
+Y: Yes
+N: No
+Price: price of vehicle divided by the logarithm of income
+Speed: highest attainable speed (mph)
+Pollution: tailpipe emissions as fraction of those for new gas vehicle

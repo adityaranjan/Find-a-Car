@@ -1,0 +1,301 @@
+,College Education,Household Size > 2,Daily Commute < 5 Miles,Type,Fuel,Price,Speed,Pollution,Size
+0,N,N,N,van,compressed natural gas,4.1753447999999995,95,0.6,mid-size/large
+1,Y,Y,Y,van,methanol,3.3109468,85,0,mid-size/large
+2,N,Y,N,regular car,gasoline,3.2821542999999997,95,0.75,mid-size/large
+3,N,N,Y,regular car,electric,5.4600663,95,0.6,mid-size/large
+4,N,Y,N,regular car,gasoline,4.690508,110,0.75,mid-size/large
+5,N,N,N,truck,gasoline,4.8177056,110,0.5,mid-size/large
+6,Y,Y,Y,van,methanol,1.9270822,100,0,compact
+7,Y,N,Y,regular car,gasoline,5.2423324000000004,95,0.25,compact
+8,N,N,N,sport utility vehicle,gasoline,4.0899555,85,0.25,compact
+9,Y,N,N,truck,methanol,3.8017382000000004,85,0,compact
+10,Y,N,N,regular car,methanol,4.1386835,55,0,mid-size/large
+11,Y,Y,N,station wagon,methanol,3.3237360000000002,85,0,mid-size/large
+12,Y,N,N,sport car,gasoline,7.3871485,95,1,compact
+13,N,N,N,regular car,gasoline,0.96354111,95,0.75,mid-size/large
+14,Y,N,N,regular car,electric,3.5868589999999996,140,0.6,compact
+15,Y,N,N,regular car,gasoline,2.7591223,110,0.75,compact
+16,Y,Y,Y,regular car,compressed natural gas,5.459319799999999,110,0.4,mid-size/large
+17,N,N,N,truck,methanol,1.0224889000000001,85,0,mid-size/large
+18,Y,Y,N,van,compressed natural gas,3.5868589999999996,85,0.4,mid-size/large
+19,Y,N,Y,regular car,gasoline,4.4145957000000005,110,0.5,compact
+20,N,Y,Y,regular car,gasoline,7.9408288,85,0.25,subcompact
+21,Y,N,N,regular car,gasoline,4.3455777,110,0.25,compact
+22,N,N,Y,regular car,gasoline,4.1386835,85,0.5,mid-size/large
+23,Y,N,N,regular car,compressed natural gas,3.0350346,140,0.25,subcompact
+24,Y,N,N,truck,methanol,7.0659681,65,0,mid-size/large
+25,Y,N,Y,regular car,compressed natural gas,4.4145957000000005,85,0.25,compact
+26,Y,N,N,regular car,gasoline,2.9936324,140,0.75,mid-size/large
+27,N,N,N,truck,gasoline,1.4453117,85,1,compact
+28,Y,N,Y,regular car,methanol,6.6218936,65,0,mid-size/large
+29,Y,N,N,truck,compressed natural gas,4.4667162000000005,110,0.6,subcompact
+30,Y,N,N,regular car,gasoline,6.102427,140,0.5,mid-size/large
+31,N,N,N,regular car,gasoline,3.2821542999999997,110,0.75,mid-size/large
+32,Y,Y,N,regular car,electric,3.0863263,140,0.4,mid-size/large
+33,Y,N,Y,truck,methanol,4.8177056,85,0,compact
+34,Y,N,N,regular car,gasoline,3.8343333,110,0.25,compact
+35,Y,Y,Y,sport utility vehicle,compressed natural gas,5.806888400000001,140,0.4,mid-size/large
+36,Y,N,Y,regular car,electric,3.0863263,110,0.75,mid-size/large
+37,N,N,N,regular car,gasoline,2.8906232999999997,110,0.75,mid-size/large
+38,N,N,N,regular car,electric,5.1388859,140,0.75,mid-size/large
+39,N,Y,Y,truck,methanol,7.708328900000001,85,0,subcompact
+40,Y,N,Y,regular car,compressed natural gas,3.2821542999999997,110,0.1,compact
+41,Y,N,N,van,electric,0.8277367,140,0.75,mid-size/large
+42,N,Y,N,regular car,compressed natural gas,4.1753447999999995,110,0.4,mid-size/large
+43,N,N,N,regular car,gasoline,2.7772075000000003,110,0.25,subcompact
+44,Y,N,Y,regular car,electric,4.0899555,85,0.4,mid-size/large
+45,Y,N,N,regular car,gasoline,4.0899555,85,1,compact
+46,Y,N,N,station wagon,gasoline,1.9270822,85,1,compact
+47,Y,N,N,van,electric,2.8118444,140,0.6,mid-size/large
+48,N,Y,Y,regular car,electric,3.3230888,85,0.4,mid-size/large
+49,Y,N,Y,regular car,gasoline,2.2333581000000002,140,1,mid-size/large
+50,N,Y,Y,regular car,electric,4.963018,95,0.4,mid-size/large
+51,N,N,N,regular car,compressed natural gas,5.806888400000001,85,0.4,mid-size/large
+52,Y,N,N,regular car,methanol,4.292047900000001,100,0,subcompact
+53,Y,N,N,station wagon,methanol,3.8541644,85,0,mid-size/large
+54,Y,N,N,regular car,compressed natural gas,3.7871010999999997,85,0.6,compact
+55,Y,N,N,regular car,electric,6.4519234,85,0.4,mid-size/large
+56,Y,Y,Y,van,compressed natural gas,1.2781111,95,0.6,mid-size/large
+57,N,Y,N,van,electric,3.8343333,85,0.4,mid-size/large
+58,N,Y,N,truck,gasoline,3.0350346,95,0.25,subcompact
+59,Y,Y,Y,van,compressed natural gas,2.5247341,110,0.6,mid-size/large
+60,N,N,Y,regular car,methanol,1.9852072,65,0,mid-size/large
+61,Y,N,Y,van,compressed natural gas,1.2416049999999998,95,0.6,compact
+62,Y,Y,N,regular car,gasoline,3.5868589999999996,140,0.75,compact
+63,Y,N,N,regular car,gasoline,5.7941569,110,0.75,mid-size/large
+64,Y,N,N,truck,electric,5.1388859,95,0.6,mid-size/large
+65,Y,N,N,regular car,electric,3.5868589999999996,140,0.75,mid-size/large
+66,Y,Y,N,truck,electric,5.2423324000000004,95,0.75,compact
+67,N,N,N,truck,gasoline,3.2821542999999997,140,0.75,mid-size/large
+68,N,Y,N,sport utility vehicle,gasoline,3.7871010999999997,85,0.5,compact
+69,Y,N,N,regular car,gasoline,4.5107845,95,1,mid-size/large
+70,Y,N,Y,regular car,electric,4.292047900000001,110,0.4,mid-size/large
+71,Y,N,N,regular car,gasoline,4.6962648,110,0.5,compact
+72,N,Y,N,sport utility vehicle,gasoline,4.5902363,85,0.25,compact
+73,Y,N,N,regular car,gasoline,3.3230888,85,0.5,mid-size/large
+74,N,N,N,truck,compressed natural gas,3.0350346,95,0.25,compact
+75,Y,Y,N,regular car,gasoline,3.5329841,95,0.5,mid-size/large
+76,Y,N,N,sport car,gasoline,8.309339900000001,110,1,compact
+77,Y,N,Y,regular car,electric,8.4371306,110,0.75,mid-size/large
+78,Y,Y,Y,van,methanol,6.0593618,85,0,compact
+79,Y,N,Y,regular car,electric,3.7871010999999997,110,0.4,mid-size/large
+80,N,N,Y,regular car,gasoline,2.8118444,95,0.25,subcompact
+81,Y,N,Y,truck,gasoline,5.1388859,110,0.5,compact
+82,Y,N,Y,regular car,gasoline,5.2423324000000004,85,0.25,compact
+83,Y,N,N,regular car,gasoline,7.3871485,140,0.75,compact
+84,Y,N,N,truck,gasoline,4.1386835,85,0.25,subcompact
+85,Y,N,N,van,electric,8.8365693,110,0.6,mid-size/large
+86,Y,Y,Y,regular car,electric,4.292047900000001,95,0.6,mid-size/large
+87,N,N,N,truck,electric,4.1753447999999995,85,0.25,compact
+88,Y,N,N,van,gasoline,3.5329841,85,1,compact
+89,Y,Y,N,van,electric,5.7941569,95,0.4,mid-size/large
+90,Y,Y,N,truck,gasoline,4.5107845,110,0.75,mid-size/large
+91,Y,N,N,regular car,gasoline,4.690508,110,0.5,mid-size/large
+92,N,Y,Y,sport car,compressed natural gas,1.9313856,140,0.6,compact
+93,N,N,Y,regular car,electric,3.5329841,110,0.4,mid-size/large
+94,N,N,N,van,electric,2.4832101000000004,95,0.25,compact
+95,Y,N,Y,regular car,compressed natural gas,5.2423324000000004,110,0.1,compact
+96,Y,Y,Y,regular car,gasoline,3.2821542999999997,85,0.5,mid-size/large
+97,Y,N,N,station wagon,gasoline,2.7772075000000003,110,0.75,mid-size/large
+98,N,N,Y,regular car,electric,3.8343333,85,0.25,compact
+99,Y,N,Y,regular car,compressed natural gas,4.8177056,110,0.1,compact
+100,N,Y,Y,station wagon,electric,0.67089498,140,0.4,mid-size/large
+101,N,N,Y,regular car,electric,5.1388859,95,0.6,mid-size/large
+102,Y,N,N,regular car,gasoline,4.9893873,140,1,compact
+103,N,N,Y,regular car,compressed natural gas,4.8177056,85,0.25,compact
+104,Y,N,Y,regular car,electric,4.0395745000000005,85,0.75,compact
+105,Y,N,Y,truck,methanol,4.8177056,65,0,mid-size/large
+106,Y,N,Y,regular car,compressed natural gas,4.690508,110,0.6,mid-size/large
+107,Y,N,Y,regular car,compressed natural gas,5.4600663,110,0.6,compact
+108,Y,N,N,regular car,electric,4.1386835,110,0.6,mid-size/large
+109,Y,N,N,regular car,methanol,6.9851422,55,0,mid-size/large
+110,Y,N,N,regular car,gasoline,4.985604,140,1,mid-size/large
+111,Y,N,N,regular car,gasoline,2.7772075000000003,85,1,compact
+112,N,Y,Y,van,methanol,3.9704144,100,0,mid-size/large
+113,Y,N,Y,regular car,gasoline,5.4600663,140,0.5,mid-size/large
+114,Y,N,N,sport utility vehicle,compressed natural gas,5.4600663,140,0.1,compact
+115,Y,N,N,sport utility vehicle,electric,4.8177056,95,0.4,compact
+116,Y,Y,N,regular car,compressed natural gas,1.7673139,95,0.4,mid-size/large
+117,Y,N,N,sport utility vehicle,gasoline,5.7941569,85,0.75,compact
+118,Y,Y,Y,sport utility vehicle,electric,5.3019416,140,0.25,compact
+119,Y,N,Y,regular car,gasoline,2.9778108,95,0.25,subcompact
+120,Y,N,N,van,gasoline,2.2482626,110,0.5,mid-size/large
+121,N,N,N,regular car,gasoline,4.0899555,95,0.5,mid-size/large
+122,N,Y,N,van,gasoline,3.5868589999999996,85,1,mid-size/large
+123,Y,N,Y,regular car,gasoline,2.2482626,110,1,mid-size/large
+124,N,N,N,regular car,gasoline,3.0350346,85,1,compact
+125,N,N,Y,van,gasoline,1.2416049999999998,110,0.5,compact
+126,Y,N,N,regular car,gasoline,8.179911,95,0.5,mid-size/large
+127,Y,N,Y,regular car,electric,4.1753447999999995,110,0.4,subcompact
+128,N,N,Y,regular car,gasoline,4.4145957000000005,95,0.5,mid-size/large
+129,N,Y,N,van,electric,3.5329841,85,0.6,mid-size/large
+130,Y,Y,N,truck,gasoline,0.96569282,85,1,subcompact
+131,N,Y,Y,van,gasoline,4.1753447999999995,85,0.25,compact
+132,Y,N,N,regular car,electric,3.2821542999999997,95,0.4,mid-size/large
+133,Y,N,N,regular car,compressed natural gas,4.2490015,85,0.6,mid-size/large
+134,N,N,Y,regular car,methanol,0.96354111,100,0,mid-size/large
+135,Y,N,Y,regular car,methanol,3.0674666,100,0,mid-size/large
+136,Y,N,N,truck,gasoline,2.4832101000000004,85,0.25,subcompact
+137,Y,N,N,regular car,gasoline,3.5329841,110,1,compact
+138,Y,Y,N,regular car,methanol,4.8568222,55,0,compact
+139,Y,N,Y,regular car,gasoline,6.3864157,110,0.25,compact
+140,Y,N,Y,regular car,compressed natural gas,5.5907915,110,0.4,mid-size/large
+141,N,N,Y,regular car,electric,4.0395745000000005,85,0.4,mid-size/large
+142,N,N,N,van,electric,7.9408288,110,0.4,compact
+143,Y,N,N,regular car,electric,8.309339900000001,85,0.25,compact
+144,N,N,Y,regular car,compressed natural gas,1.4889054,85,0.1,mini
+145,Y,Y,Y,station wagon,compressed natural gas,1.5337333,95,0.25,mid-size/large
+146,N,Y,Y,van,gasoline,0.96354111,85,0.25,compact
+147,N,Y,Y,van,compressed natural gas,1.9270822,140,0.4,mid-size/large
+148,N,N,N,regular car,gasoline,2.6115068,110,0.5,mid-size/large
+149,Y,Y,N,sport utility vehicle,compressed natural gas,2.8906232999999997,140,0.4,mid-size/large
+150,Y,N,Y,regular car,electric,3.5868589999999996,95,0.6,mid-size/large
+151,Y,N,Y,regular car,methanol,6.0593618,85,0,subcompact
+152,Y,N,Y,regular car,gasoline,3.5329841,110,0.25,subcompact
+153,Y,N,N,sport car,electric,5.2423324000000004,85,0.25,mini
+154,Y,Y,N,truck,electric,2.2482626,85,0.25,subcompact
+155,Y,Y,N,van,compressed natural gas,4.292047900000001,95,0.6,mid-size/large
+156,Y,Y,N,van,electric,4.0395745000000005,110,0.6,mid-size/large
+157,Y,N,Y,truck,gasoline,2.8906232999999997,110,0.25,subcompact
+158,Y,Y,N,van,compressed natural gas,3.8017382000000004,85,0.6,mid-size/large
+159,N,N,N,regular car,methanol,17.370563,100,0,subcompact
+160,Y,N,N,regular car,electric,2.2722607000000004,95,0.4,mid-size/large
+161,Y,N,N,truck,electric,5.460423400000001,85,0.25,compact
+162,Y,N,Y,regular car,electric,1.7893555,85,0.4,mid-size/large
+163,Y,N,N,regular car,electric,2.6115068,110,0.75,mid-size/large
+164,N,Y,Y,regular car,gasoline,5.4600663,110,0.5,mid-size/large
+165,Y,Y,N,truck,methanol,3.0350346,85,0,mid-size/large
+166,Y,N,N,regular car,gasoline,4.0899555,85,0.5,mid-size/large
+167,Y,N,Y,regular car,methanol,4.1386835,100,0,mid-size/large
+168,N,N,N,van,electric,4.1753447999999995,95,0.4,mid-size/large
+169,Y,Y,N,regular car,gasoline,3.5329841,85,0.75,compact
+170,Y,Y,N,regular car,methanol,4.3455777,55,0,mid-size/large
+171,N,N,Y,regular car,methanol,8.179911,55,0,mid-size/large
+172,Y,N,Y,regular car,compressed natural gas,3.5329841,85,0.4,mid-size/large
+173,Y,N,N,sport utility vehicle,gasoline,5.806888400000001,85,0.25,compact
+174,Y,N,N,regular car,compressed natural gas,4.690508,140,0.6,mid-size/large
+175,N,N,Y,regular car,electric,1.6059018999999999,140,0.75,compact
+176,N,N,Y,regular car,electric,6.102427,110,0.6,subcompact
+177,Y,N,Y,regular car,electric,3.5868589999999996,140,0.75,mid-size/large
+178,Y,N,N,sport utility vehicle,compressed natural gas,7.9408288,85,0.4,mid-size/large
+179,N,N,Y,regular car,electric,1.9270822,95,0.75,compact
+180,Y,Y,N,regular car,compressed natural gas,2.5247341,85,0.6,mid-size/large
+181,Y,N,Y,regular car,electric,3.5868589999999996,140,0.4,mid-size/large
+182,N,N,Y,van,gasoline,4.0899555,140,0.75,mid-size/large
+183,N,Y,N,regular car,gasoline,5.7941569,110,1,mid-size/large
+184,Y,N,N,regular car,methanol,4.292047900000001,85,0,mid-size/large
+185,Y,N,N,regular car,compressed natural gas,4.8177056,140,0.1,compact
+186,N,Y,Y,van,gasoline,4.1386835,110,0.75,mid-size/large
+187,N,N,Y,regular car,methanol,3.0674666,55,0,mid-size/large
+188,N,N,N,van,compressed natural gas,4.690508,95,0.1,compact
+189,N,N,N,regular car,gasoline,2.4599482000000004,140,0.75,mid-size/large
+190,Y,N,Y,truck,electric,5.3019416,110,0.6,compact
+191,Y,N,N,truck,electric,2.2482626,140,0.75,mid-size/large
+192,Y,N,N,truck,compressed natural gas,2.5247341,95,0.4,mid-size/large
+193,N,N,N,regular car,compressed natural gas,2.9778108,110,0.25,mid-size/large
+194,N,Y,N,regular car,compressed natural gas,8.079149099999999,95,0.4,compact
+195,Y,N,N,regular car,electric,3.0350346,140,0.6,mid-size/large
+196,Y,N,N,regular car,methanol,1.9852072,100,0,compact
+197,Y,N,N,regular car,methanol,1.9270822,100,0,compact
+198,N,Y,Y,regular car,methanol,1.9270822,100,0,compact
+199,Y,N,Y,regular car,gasoline,2.8118444,110,1,mid-size/large
+200,Y,N,Y,regular car,electric,4.0899555,140,0.75,compact
+201,Y,N,N,truck,electric,3.2821542999999997,140,0.75,mid-size/large
+202,Y,N,N,van,compressed natural gas,4.4145957000000005,95,0.4,mid-size/large
+203,Y,Y,N,regular car,gasoline,2.8906232999999997,110,0.75,mid-size/large
+204,Y,Y,N,regular car,gasoline,5.459319799999999,140,0.5,mid-size/large
+205,Y,Y,N,van,gasoline,3.7871010999999997,85,0.5,mid-size/large
+206,Y,Y,Y,regular car,electric,4.6962648,85,0.75,compact
+207,Y,N,Y,regular car,electric,3.5329841,110,0.6,mid-size/large
+208,Y,N,Y,truck,gasoline,1.4244583,85,1,mid-size/large
+209,Y,Y,N,regular car,gasoline,3.8343333,110,0.5,mid-size/large
+210,Y,Y,N,station wagon,electric,2.3740971,85,0.75,compact
+211,Y,Y,N,regular car,methanol,3.0674666,55,0,mid-size/large
+212,Y,N,N,sport car,electric,4.9893873,95,0.4,subcompact
+213,Y,N,Y,regular car,methanol,4.8568222,55,0,mid-size/large
+214,N,N,N,truck,compressed natural gas,5.459319799999999,110,0.25,mid-size/large
+215,Y,Y,N,regular car,electric,4.4667162000000005,110,0.25,compact
+216,N,Y,N,van,gasoline,5.4600663,110,0.5,mid-size/large
+217,N,N,N,regular car,gasoline,2.2482626,110,0.5,mid-size/large
+218,N,N,N,van,compressed natural gas,6.7447878,140,0.25,compact
+219,Y,N,Y,truck,methanol,3.8017382000000004,65,0,mid-size/large
+220,Y,N,Y,truck,electric,4.0899555,85,0.4,mid-size/large
+221,Y,N,Y,regular car,electric,4.4145957000000005,95,0.4,mid-size/large
+222,N,Y,N,sport utility vehicle,electric,6.3459814,95,0.4,compact
+223,N,Y,N,van,electric,3.7985553999999997,110,0.75,mid-size/large
+224,Y,Y,N,station wagon,gasoline,4.1753447999999995,110,0.75,mid-size/large
+225,N,N,N,regular car,compressed natural gas,3.7871010999999997,140,0.1,subcompact
+226,N,Y,N,regular car,gasoline,5.1388859,85,0.25,compact
+227,N,N,Y,regular car,methanol,5.9556216,55,0,mid-size/large
+228,Y,N,N,van,electric,3.5329841,140,0.6,mid-size/large
+229,N,N,N,regular car,gasoline,2.8118444,110,0.25,subcompact
+230,N,N,Y,truck,gasoline,4.1753447999999995,110,0.25,compact
+231,N,N,Y,regular car,electric,5.1388859,95,0.6,mid-size/large
+232,Y,N,Y,regular car,gasoline,3.5868589999999996,85,0.75,mid-size/large
+233,N,N,Y,regular car,electric,2.8118444,140,0.6,mid-size/large
+234,Y,N,N,regular car,gasoline,1.9270822,110,0.75,mid-size/large
+235,Y,N,N,regular car,methanol,4.690508,65,0,mid-size/large
+236,Y,N,Y,regular car,gasoline,3.3230888,110,0.25,compact
+237,N,Y,Y,regular car,electric,6.4519234,95,0.4,mid-size/large
+238,N,Y,Y,regular car,methanol,4.292047900000001,65,0,compact
+239,N,Y,Y,regular car,gasoline,7.9408288,95,0.5,mid-size/large
+240,Y,N,Y,regular car,methanol,4.8177056,55,0,mid-size/large
+241,N,Y,N,regular car,electric,8.029509299999999,85,0.75,subcompact
+242,Y,N,Y,regular car,methanol,4.1386835,85,0,mid-size/large
+243,Y,N,Y,regular car,gasoline,4.1753447999999995,95,1,mid-size/large
+244,Y,N,Y,regular car,electric,5.3019416,140,0.75,mid-size/large
+245,N,Y,N,truck,gasoline,3.8017382000000004,95,0.75,mid-size/large
+246,N,Y,N,regular car,methanol,3.8541644,55,0,mid-size/large
+247,Y,N,N,sport utility vehicle,compressed natural gas,7.3871485,95,0.4,mid-size/large
+248,Y,N,N,sport car,compressed natural gas,4.1753447999999995,95,0.25,subcompact
+249,Y,N,Y,regular car,electric,3.0350346,95,0.6,mid-size/large
+250,Y,N,N,regular car,gasoline,2.9936324,95,0.5,mid-size/large
+251,Y,N,Y,sport car,methanol,6.9482252,85,0,subcompact
+252,Y,N,Y,regular car,electric,6.8978058,140,0.6,mid-size/large
+253,N,Y,N,regular car,electric,1.5337333,85,0.4,mid-size/large
+254,Y,N,N,regular car,electric,1.6554734,95,0.4,mid-size/large
+255,N,Y,Y,van,methanol,5.4600663,55,0,mid-size/large
+256,Y,N,N,sport utility vehicle,compressed natural gas,3.8017382000000004,140,0.1,subcompact
+257,Y,N,N,sport utility vehicle,compressed natural gas,5.2423324000000004,85,0.6,mid-size/large
+258,N,Y,N,van,gasoline,2.5562222,110,0.75,mid-size/large
+259,Y,N,N,regular car,methanol,2.5247341,100,0,mini
+260,N,N,N,regular car,compressed natural gas,3.5329841,140,0.1,compact
+261,Y,Y,N,truck,electric,0.89467777,85,0.25,compact
+262,N,Y,N,regular car,compressed natural gas,4.796994799999999,140,0.1,compact
+263,N,N,N,regular car,compressed natural gas,4.690508,85,0.1,subcompact
+264,N,N,Y,regular car,methanol,4.8177056,85,0,mid-size/large
+265,Y,N,Y,regular car,gasoline,7.9408288,95,1,mid-size/large
+266,Y,N,N,truck,electric,10.277772,95,0.6,compact
+267,Y,N,Y,regular car,electric,3.7871010999999997,85,0.4,mid-size/large
+268,N,N,N,regular car,compressed natural gas,4.8177056,110,0.4,mid-size/large
+269,N,N,N,regular car,gasoline,3.5329841,95,1,compact
+270,Y,N,N,regular car,methanol,1.6618680000000001,55,0,compact
+271,Y,N,N,truck,compressed natural gas,3.8343333,140,0.1,subcompact
+272,Y,N,Y,regular car,methanol,4.035965099999999,85,0,compact
+273,Y,N,N,regular car,gasoline,3.8343333,110,0.5,mid-size/large
+274,Y,Y,N,van,electric,5.2423324000000004,85,0.4,mid-size/large
+275,N,N,Y,truck,methanol,6.0700690999999996,55,0,mid-size/large
+276,Y,Y,N,van,electric,2.2722607000000004,85,0.4,compact
+277,N,N,N,van,methanol,2.2072979,85,0,compact
+278,N,N,Y,van,compressed natural gas,3.2118037,140,0.25,mid-size/large
+279,Y,Y,Y,van,compressed natural gas,3.5329841,140,0.4,mid-size/large
+280,Y,Y,Y,truck,compressed natural gas,1.3795612,140,0.4,mid-size/large
+281,Y,N,N,regular car,gasoline,1.6059018999999999,95,1,mid-size/large
+282,N,N,Y,truck,gasoline,2.8906232999999997,85,0.75,mid-size/large
+283,N,N,Y,van,electric,4.1386835,85,0.4,mid-size/large
+284,N,N,Y,regular car,compressed natural gas,5.2423324000000004,110,0.1,subcompact
+285,Y,N,N,station wagon,gasoline,4.0395745000000005,95,0.75,mid-size/large
+286,N,N,Y,truck,compressed natural gas,0.76686666,85,0.1,compact
+287,Y,N,Y,regular car,gasoline,4.796994799999999,140,0.75,compact
+288,N,N,N,truck,compressed natural gas,4.8177056,95,0.1,compact
+289,N,Y,Y,van,methanol,3.8541644,65,0,mid-size/large
+290,N,Y,N,regular car,electric,11.241313,110,0.75,mid-size/large
+291,N,N,Y,regular car,gasoline,6.7447878,85,0.5,mid-size/large
+292,Y,N,Y,regular car,compressed natural gas,3.5329841,110,0.1,subcompact
+293,Y,N,N,regular car,methanol,3.7871010999999997,55,0,compact
+294,Y,Y,N,regular car,compressed natural gas,3.2118037,110,0.25,mid-size/large
+295,Y,N,Y,regular car,gasoline,2.7772075000000003,140,0.75,compact
+296,Y,N,Y,station wagon,gasoline,10.422338,95,0.75,mid-size/large
+297,Y,N,Y,regular car,compressed natural gas,4.0899555,140,0.25,mid-size/large
+298,N,Y,N,van,methanol,3.5346277,100,0,mid-size/large
+299,N,Y,N,van,compressed natural gas,3.2821542999999997,140,0.25,mid-size/large

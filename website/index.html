@@ -1,0 +1,158 @@
+<html>
+<head>
+<title>Find a Car Website - CPQ Project</title>
+<link href = "https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald" rel = "stylesheet">
+<link href = "style.css" rel = "stylesheet" type = "text/css">
+</head>
+
+<body>
+<div id = "inputDiv">
+	<header>
+		<div class = "title">
+			<p id = "title"> Finding The Right Car Has Never Been Easier. </p>
+		</div>
+		<div class = "subtitle">
+			<p> Just Answer These 5 Questions. </p>
+		</div>
+	</header>
+
+	<form>
+		<table class = "input">
+
+			<! -- Maximum Price >
+			<tr>
+				<td>
+					<label id = "max_price">What maximum price are you willing to pay?</label>
+				</td>
+				<td>
+   					<input type= "range" name = "price_slider" id = "priceSliderID" value = "30000" min = "15000" max = "150000" step = "1000" oninput = "priceOutputID.value = priceSliderID.value">
+   				</td>
+   				<td>
+   					<output name = "price_slider_output" id = "priceOutputID">30000</output>
+   				</td>
+			</tr>
+
+			<! -- Household Size >
+			<tr>
+				<td>
+					<label id = "household_size">Is your household size greater than 2?</label>
+				</td>
+				<td>
+					<input type = "checkbox" name = "household_size" id = "householdSizeID">
+				</td>
+			</tr>
+
+			<! -- Daily Commute >
+			<tr>
+				<td>
+					<label id = "daily_commute">Is your daily commute less than 5 miles?</label>
+				</td>
+				<td>
+					<input type = "checkbox" name = "daily_commute" id = "dailyCommuteID">
+				</td>
+			</tr>
+
+			<! -- Eco-Friendly Choice>
+			<tr>
+				<td>
+					<label id = "eco_friendly">Do you prefer eco-friendly cars?</label>
+				</td>
+				<td>
+					<input type = "checkbox" name = "eco_friendly" id = "ecoFriendlyID">
+				</td>
+			</tr>
+
+			<! -- Luxury Choice>
+			<tr>
+				<td>
+					<label id = "luxury_choice">Do you prefer powerful and luxurious cars?</label>
+				</td>
+				<td>
+					<input type = "checkbox" name = "luxury_choice" id = "luxuryChoiceID">
+				</td>
+			</tr>
+			
+		</table>
+	</form>
+	
+	<div class = "button">
+		<button onClick = "apiPost()">Submit</button>
+	</div>
+</div>	
+
+<div class = "loadingImage" id = "loadingDiv">
+	<div class = "subtitle">
+		<p> Almost There.... Hang Tight!</p>
+	</div>
+	<p id = "loadingImg"></p>
+</div>
+
+<div id = "outputDiv">
+	<header>
+		<div class = "title">
+			<p> Top 5 Recommendations </p>
+		</div>
+	</header>
+	
+	<table class = "output">
+	
+		<tr>
+			<td>
+				<p>Car</p>
+			</td>
+			<td>
+				<p>Score (0-10)</p>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<label id = "carnames1"></label>
+			</td>
+			<td>
+				<label id = "carscores1"></label>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				<label id = "carnames2"></label>
+			</td>
+			<td>
+				<label id = "carscores2"></label>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<label id = "carnames3"></label>
+			</td>
+			<td>
+				<label id = "carscores3"></label>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<label id = "carnames4"></label>
+			</td>
+			<td>
+				<label id = "carscores4"></label>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<label id = "carnames5"></label>
+			</td>
+			<td>
+				<label id = "carscores5"></label>
+			</td>
+		</tr>
+		
+	</table>
+</div>
+
+<script type = "text/javascript" src = "main.js"></script>
+</body>
+</html>
